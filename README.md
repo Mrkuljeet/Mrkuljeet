@@ -1,4 +1,34 @@
+# 💫 Hi 👋, I'm Kuljeet Choure 
+**B.Tech CSE Student | Web Developer | Cyber Security & AWS Beginner | GFG Team Member | Hackathon Enthusiast**
 
+Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+-🔭 **I’m currently working on:**  
+- 🤖 AI Internship Finder for Students (Hackathon Project - Team ForceByte)  
+- 🌐 Building my Personal Developer Portfolio  
+
+🌱 **I’m currently learning:**  
+- HTML, CSS & JavaScript (Frontend Development)  
+- C Programming (Loops, Functions, Pointers)  
+- Java  
+- Git & GitHub  
+- Exploring Ethical Hacking Fundamentals  
+
+👯 **I’m looking to collaborate on:**  
+- Beginner-friendly Web Development Projects  
+- AI-based Student Tools  
+- Open Source Projects related to Web or Security  
+
+🤔 **I’m looking for help with:**  
+- Backend Development (Firebase / APIs Integration)  
+- Improving DSA & Problem Solving Skills  
+
+📫 **How to reach me:**  
+- 📧 kuljeetchoure45@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kuljeet-c-1703b1383/
+
+⚡ **Fun fact:**  
+I love turning ideas into real projects and learning something new every single day 🚀
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuljeet_chouriya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuljeet choure) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kuljeetchoure) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuljeetchoure45@gmail.com) 
 
