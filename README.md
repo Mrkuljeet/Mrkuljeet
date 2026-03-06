@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - Git & GitHub  
 - Exploring Ethical Hacking Fundamentals  
 
-👯 **I’m looking to collaborate on:**  
+**I’m looking to collaborate on:**  
 - Beginner-friendly Web Development Projects  
 - AI-based Student Tools  
 - Open Source Projects related to Web or Security  
