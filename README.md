@@ -27,8 +27,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - 📧 kuljeetchoure45@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/kuljeet-c-1703b1383/
 
-⚡ **Fun fact:**  
-I love turning ideas into real projects and learning something new every single day 🚀
+
 ## 🌐 Socials:
  https://www.linkedin.com/in/kuljeet-c-1703b1383/
 
@@ -44,4 +43,4 @@ I love turning ideas into real projects and learning something new every single 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mrkuljeet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -
