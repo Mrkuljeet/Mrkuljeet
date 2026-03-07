@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 
 -🔭 **I’m currently working on:** 
 - 🤖 AI Internship Finder for Students (Hackathon Project - Team ForceByte)  
-- 🌐 Building my Personal Developer Portfolio  
+- 🌐 Building my Personal Developer Portfo 
 
 🌱 **I’m currently learning:**  
 - HTML, CSS & JavaScript (Frontend Development)  
