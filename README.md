@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Kuljeet Choure 
 **B.Tech CSE Student | Web Developer | Cyber Security & AWS Beginner | GFG Team Member | Hackathon Enthusiast**
 
-Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or Anything Else. 😊
 
--🔭 **I’m currently working on:**  
+-🔭 **I’m currently working on:** 
 - 🤖 AI Internship Finder for Students (Hackathon Project - Team ForceByte)  
 - 🌐 Building my Personal Developer Portfolio  
 
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - HTML, CSS & JavaScript (Frontend Development)  
 - C Programming (Loops, Functions, Pointers)  
 - Java  
-- Git & GitHub  
+- Git & GitHub 
 - Exploring Ethical Hacking Fundamentals  
 
 **I’m looking to collaborate on:**  
@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - Open Source Projects related to Web or Security  
 
 🤔 **I’m looking for help with:**  
-- Backend Development (Firebase / APIs Integration)  
+- Backend Development (Firebase /APIs Integration)  
 - Improving DSA & Problem Solving Skills  
 
 📫 **How to reach me:**  
@@ -43,4 +43,3 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mrkuljeet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -
