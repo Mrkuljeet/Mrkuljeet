@@ -28,8 +28,6 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - 💼 LinkedIn: https://www.linkedin.com/in/kuljeet-c-1703b1383/
 
 
-## 🌐 Socials:
- https://www.linkedin.com/in/kuljeet-c-1703b1383/
 
  
 # 💻 Tech Stack:
