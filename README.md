@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - HTML, CSS & JavaScript (Frontend Development)  
 - C Programming (Loops, Functions, Pointers)  
 - Java  
-- Git & GitHub 
+ 
 - Exploring Ethical Hacking Fundamentals  
 
 **I’m looking to collaborate on:**  
