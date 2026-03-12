@@ -19,9 +19,7 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 - AI-based Student Tools  
 - Open Source Projects related to Web or Security  
 
-🤔 **I’m looking for help with:**  
-- Backend Development (Firebase /APIs Integration)  
-- Improving DSA & Problem Solving Skills  
+
 
 📫 **How to reach me:**  
 - 📧 kuljeetchoure45@gmail.com  
