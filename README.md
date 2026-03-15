@@ -38,7 +38,5 @@ Email Me 👉 ✉️ **kuljeetchoure45@gmail.com** For Collaboration/Project or 
 ![](https://nirzak-streak-stats.vercel.app/?user=Mrkuljeet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkuljeet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mrkuljeet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
