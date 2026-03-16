@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/kuljeet-c-1703b1383/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
