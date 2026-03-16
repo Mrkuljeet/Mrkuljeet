@@ -99,13 +99,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/kuljeet_chouriya/">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail"/>
-</a>
+
 
 </p>
 
