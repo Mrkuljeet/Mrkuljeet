@@ -77,7 +77,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mrkuljeet&theme=matrix"/>
 
 ---
-
 # 📜 Certifications
 
 🏅 Cybersecurity Fundamentals  (Google)                                                                                                                                        
