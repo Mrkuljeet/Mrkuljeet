@@ -1,4 +1,4 @@
-<h1 align="center">Welcome Coders 👨‍💻</h1>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&section=header&text=Kuljeet%20|%20AI%20and%20Cybersecurity%20Developer&fontSize=40&fontColor=00ff00&animation=fadeIn"/>
