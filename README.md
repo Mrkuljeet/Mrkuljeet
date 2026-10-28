@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me 
 
-🎓 B.Tech **Cybersecurity Student**
+🎓 B.Tech **Cybersecurity 
 🏫 Rungta International Skills University, Bhilai
 
 
